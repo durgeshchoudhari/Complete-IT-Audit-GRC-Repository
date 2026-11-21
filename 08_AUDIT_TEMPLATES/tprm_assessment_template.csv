@@ -1,0 +1,2 @@
+vendor_id,vendor_name,service,business_owner,data_sensitivity,system_access,criticality,inherent_risk,soc_report_reviewed,security_assessment,incident_clause,bc_dr_evidence,reassessment_due,status
+V001,ExampleCloud,Fictional hosting,IT Owner,High,Yes,Critical,High,No,No,Yes,No,2026-10-01,In Review

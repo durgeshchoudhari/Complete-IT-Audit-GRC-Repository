@@ -1,0 +1,5 @@
+record_id,area,exceptions
+TX002,ITAC,Negative transaction amount
+TX003,ITAC,Missing customer reference
+TX004,ITAC,Processed transaction not marked approved
+TX005,ITAC,Duplicate indicator is Yes

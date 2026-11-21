@@ -1,0 +1,5 @@
+record_id,area,exceptions
+CHG002,Change Management,Required approval not recorded before implementation
+CHG003,Change Management,Required approval not recorded before implementation
+CHG004,Change Management,Emergency post-implementation review not recorded
+CHG006,Change Management,Testing not recorded as completed

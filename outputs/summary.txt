@@ -1,0 +1,13 @@
+COMPLETE IT AUDIT & GRC REPOSITORY — SAMPLE ANALYTICS
+=====================================================
+
+IMPORTANT: flagged records are leads for auditor investigation, not confirmed findings.
+
+IAM: 3 record(s) flagged
+Change Management: 4 record(s) flagged
+IT Operations / Backup: 1 record(s) flagged
+TPRM: 2 record(s) flagged
+ITAC: 4 record(s) flagged
+
+Review the CSV exception reports. Validate source population, criteria, evidence,
+timing, false positives, and compensating controls before reaching conclusions.

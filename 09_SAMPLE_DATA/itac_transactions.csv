@@ -1,0 +1,7 @@
+transaction_id,transaction_type,amount,currency,customer_id,approval_status,duplicate_flag,processing_status
+TX001,Invoice,1500,INR,C100,Approved,No,Processed
+TX002,Invoice,-250,INR,C101,Approved,No,Processed
+TX003,Payment,5000,INR,,Approved,No,Processed
+TX004,Payment,750,INR,C103,Pending,No,Processed
+TX005,Invoice,900,INR,C104,Approved,Yes,Processed
+TX006,Payment,1200,INR,C105,Approved,No,Processed

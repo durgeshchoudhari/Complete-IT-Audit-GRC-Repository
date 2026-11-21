@@ -1,0 +1,8 @@
+user_id,employee_name,employment_status,account_status,access_role,privileged,manager_approval,review_completed,reviewer
+U001,Asha Rao,Active,Enabled,AP_Analyst,No,Yes,Yes,Manager_A
+U002,Rahul Shah,Terminated,Enabled,Finance_Admin,Yes,No,Yes,Manager_B
+U003,Meera Iyer,Active,Enabled,Read_Only,No,Yes,Yes,Manager_C
+U004,Karan Das,Active,Enabled,DBA_Admin,Yes,Yes,No,
+U005,Nisha Patil,Active,Disabled,AP_Analyst,No,Yes,Yes,Manager_A
+U006,Dev Kulkarni,Active,Enabled,Payroll_Approver,No,No,Yes,Manager_D
+U007,Imran Khan,Terminated,Disabled,Read_Only,No,Yes,Yes,Manager_E

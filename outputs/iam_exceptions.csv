@@ -1,0 +1,4 @@
+record_id,area,exceptions
+U002,IAM,Terminated user account is enabled; No manager approval recorded
+U004,IAM,Privileged access review not completed
+U006,IAM,No manager approval recorded

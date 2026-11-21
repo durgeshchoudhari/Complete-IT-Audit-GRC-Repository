@@ -1,0 +1,5 @@
+vendor_id,vendor_name,service,criticality,inherent_risk,soc_report_reviewed,security_assessment,incident_clause,bc_dr_evidence,reassessment_due
+V001,ExampleCloud,Cloud hosting,Critical,High,No,No,Yes,No,2026-10-01
+V002,ExamplePayroll,Payroll processing,High,High,Yes,Yes,Yes,Yes,2026-12-15
+V003,ExamplePrint,Office printing,Low,Low,Not_Required,Yes,Yes,Not_Required,2027-06-01
+V004,ExampleData,Analytics processor,High,High,Yes,No,No,Yes,2026-09-30

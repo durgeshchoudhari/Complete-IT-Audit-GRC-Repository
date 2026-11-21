@@ -1,0 +1,2 @@
+risk_id,risk_statement,category,inherent_likelihood,inherent_impact,inherent_rating,key_controls,residual_rating,risk_owner,treatment,status
+RISK-001,Because leaver notifications may be delayed, former staff may retain application access, causing unauthorized data access,Technology,4,5,High,JML workflow and daily exception review,Medium,IAM Owner,Mitigate,Open

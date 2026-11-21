@@ -1,0 +1,2 @@
+test_id,control_id,period,population_source,population_count,population_validation,sample_method,sample_size,test_step,evidence_reference,result,exception,conclusion
+T-001,C-001,2026-Q3,HR leaver report and IAM export,To be validated,Pending,Judgmental,To be determined,Compare leaver termination date with account disablement timestamp,To be completed,Not Tested,,Pending
